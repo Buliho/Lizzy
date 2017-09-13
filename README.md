@@ -1,3 +1,3 @@
-# Lizzy
-# GMALAB
-# Develop algorithm for p-gamma/CCT tuning
+Lizzy
+GMALAB
+Develop algorithm for p-gamma/CCT tuning
